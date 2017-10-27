@@ -2,7 +2,7 @@ package ps.java.tutorial.treerecusion;
 
 import java.io.File;
 
-public class TreeRecursive {
+public class TreeRecursion {
 
     public static void main(final String... a) {
         final File root = new File(".");
